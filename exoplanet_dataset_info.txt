@@ -1,0 +1,228 @@
+Here’s the explanation for the columns given in the dataset:
+
+1. P_NAME:
+Name of the exoplanet. It serves as the unique identifier for the planet.
+
+
+2. P_DETECTION:
+Detection method used to identify the exoplanet (e.g., Transit, Radial Velocity).
+
+
+3. P_DISCOVERY_FACILITY:
+The observatory or facility where the exoplanet was discovered.
+
+
+4. P_YEAR:
+Year of discovery of the exoplanet.
+
+
+5. P_UPDATE:
+Date when the exoplanet's data was last updated.
+
+
+6. P_MASS:
+The mass of the exoplanet, generally expressed in Earth or Jupiter masses.
+
+
+7. P_MASS_ORIGIN:
+Source or method used to determine the exoplanet’s mass (e.g., Transit Timing, Radial Velocity).
+
+
+8. P_RADIUS:
+The radius of the exoplanet, often measured relative to Earth or Jupiter radii.
+
+
+9. P_PERIOD:
+Orbital period of the exoplanet, representing the time it takes to complete one orbit around its host star.
+
+
+10. P_SEMI_MAJOR_AXIS:
+Semi-major axis of the exoplanet’s orbit, representing its average distance from the host star.
+
+
+11. P_ECCENTRICITY:
+Orbital eccentricity of the exoplanet, describing the deviation of its orbit from a perfect circle.
+
+
+12. P_INCLINATION:
+Inclination of the exoplanet’s orbital plane relative to the line of sight from Earth.
+
+
+13. P_OMEGA:
+Argument of periapsis, describing the orientation of the exoplanet's orbit within its orbital plane.
+
+
+14. S_NAME:
+The name of the host star associated with the exoplanet.
+
+
+15. S_NAME_HD:
+Identifier of the host star in the Henry Draper Catalog.
+
+
+16. S_NAME_HIP:
+Identifier of the host star in the Hipparcos Catalog.
+
+
+17. S_TYPE:
+Spectral type of the host star, indicating its classification based on temperature and luminosity (e.g., G-type, M-type).
+
+
+18. S_RA:
+Right ascension of the host star, indicating its position in the sky.
+
+
+19. S_DEC:
+Declination of the host star, indicating its position in the sky.
+
+
+20. S_RA_STR:
+Right ascension in string format for easier interpretation.
+
+
+21. S_DEC_STR:
+Declination in string format for easier interpretation.
+
+
+22. S_MAG:
+Apparent magnitude of the host star, indicating its brightness as observed from Earth.
+
+
+23. S_DISTANCE:
+Distance of the host star from Earth, usually measured in light-years or parsecs.
+
+
+24. S_TEMPERATURE:
+Surface temperature of the host star, typically measured in Kelvin.
+
+
+25. S_MASS:
+Mass of the host star relative to the Sun's mass.
+
+
+26. S_RADIUS:
+Radius of the host star relative to the Sun's radius.
+
+
+27. S_METALLICITY:
+Metal content of the host star, indicating the abundance of elements heavier than hydrogen and helium.
+
+
+28. S_AGE:
+Estimated age of the host star, typically measured in billions of years.
+
+
+29. S_LOG_LUM:
+Logarithmic luminosity of the host star relative to the Sun.
+
+
+30. S_LOG_G:
+Logarithm of the surface gravity of the host star.
+
+
+31. P_ESCAPE:
+Escape velocity of the exoplanet, describing the speed required to overcome its gravitational pull.
+
+
+32. P_POTENTIAL:
+Gravitational potential on the surface of the exoplanet.
+
+
+33. P_GRAVITY:
+Surface gravity of the exoplanet.
+
+
+34. P_DENSITY:
+Density of the exoplanet, often expressed in g/cm³.
+
+
+35. P_HILL_SPHERE:
+Hill sphere radius of the exoplanet, representing the region of space where its gravity dominates over the host star's.
+
+
+36. P_DISTANCE:
+Distance of the exoplanet from Earth, typically measured in light-years or parsecs.
+
+
+37. P_PERIASTRON:
+Closest distance of the exoplanet to its host star during its orbit.
+
+
+38. P_APASTRON:
+Farthest distance of the exoplanet from its host star during its orbit.
+
+
+39. P_DISTANCE_EFF:
+Effective distance of the exoplanet for radiation calculations.
+
+
+40. P_FLUX:
+Stellar flux received by the exoplanet, often measured in W/m².
+
+
+41. P_TEMP_EQUIL:
+Equilibrium temperature of the exoplanet, calculated assuming no atmosphere.
+
+
+42. P_TEMP_SURF:
+Estimated surface temperature of the exoplanet.
+
+
+43. P_TYPE:
+Classification of the exoplanet based on its composition or size (e.g., Gas Giant, Terrestrial).
+
+
+44. S_TYPE_TEMP:
+Classification of the host star based on its temperature.
+
+
+45. S_RA_TXT:
+Right ascension of the host star in textual format.
+
+
+46. S_DEC_TXT:
+Declination of the host star in textual format.
+
+
+47. S_LUMINOSITY:
+Luminosity of the host star relative to the Sun.
+
+
+48. S_SNOW_LINE:
+Distance from the host star where temperatures allow volatile compounds to condense into solid ice grains.
+
+
+49. S_ABIO_ZONE:
+Region around the host star where abiogenesis (origin of life) is possible.
+
+
+50. S_TIDAL_LOCK:
+Indicator of whether the host star exerts tidal locking on its orbiting exoplanets.
+
+
+51. P_HABZONE_OPT:
+Optimal habitable zone distance for the exoplanet, where conditions for life are most favorable.
+
+
+52. P_HABZONE_CON:
+Conservative estimate of the habitable zone distance for the exoplanet.
+
+
+53. P_TYPE_TEMP:
+Classification of the exoplanet based on temperature (e.g., Hot, Warm, Cold).
+
+
+54. P_HABITABLE:
+Binary indicator (0 or 1) of whether the exoplanet is considered potentially habitable.
+
+
+56. S_CONSTELLATION:
+Name of the constellation where the host star is located.
+
+
+57. S_CONSTELLATION_ABR:
+Abbreviation of the constellation name.
+
+
+58. S_CONSTELLATION_ENG:
+Full English name of the constellation
